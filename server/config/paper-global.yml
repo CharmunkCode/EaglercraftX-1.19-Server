@@ -59,7 +59,7 @@ messages:
     flying-player: <lang:multiplayer.disconnect.flying>
     flying-vehicle: <lang:multiplayer.disconnect.flying>
   no-permission: <red>I'm sorry, but you do not have permission to perform this command.
-    Please contact the server administrators if you believe that this is in error.
+    Please do not beg for mod. it will be a no.
   use-display-name-in-quit-message: false
 misc:
   fix-entity-position-desync: true
